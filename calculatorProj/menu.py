@@ -1,5 +1,4 @@
 # Menutest
 
 while True:
-  print(----- Menu inicial -----)
-  print(1-)
+  print("----- Menu inicial -----")
